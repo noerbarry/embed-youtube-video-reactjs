@@ -4,9 +4,9 @@ import ReactPlayer from "react-player";
 function App() {
   return (
     <div className="App">
-      <h3>Embed YouTube video - <a href="https://www.cluemediator.com">Clue Mediator</a></h3>
+      <h3>Salam Sehat<a href="https://www.clickdistrofactory.com">Trend</a></h3>
       <ReactPlayer
-        url="https://www.youtube.com/watch?v=UVCP4bKy9Iw"
+        url="https://www.youtube.com/channel/UCkhWyqtsbGhIzFz9CjG8VLQ"
       />
     </div>
   );
